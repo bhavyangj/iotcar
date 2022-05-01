@@ -69,6 +69,24 @@ export const App = () => {
 			<br />
 			{`ultrasonic: ${ultrasonic}`}
 			<br />
+			{`Cabin Temp:${cabinTemp}`}
+			<br />
+			{`Engine: ${engine}`}
+			<br />
+			{`Km: ${killoMeter}`}
+			<br />
+			{`Light: ${Light}`}
+			<br />
+			{`fuel: ${fuel}`}
+			<br />
+			{`rainsensor:${rainSensor}`}
+			<br />
+			{`rfid: ${rfid}`}
+			<br />
+			{`slideswitch: ${slideswitch}`}
+			<br />
+			{`ultrasonic: ${ultrasonic}`}
+			<br />
 		</div>
 	);
 };
