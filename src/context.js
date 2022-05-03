@@ -6,7 +6,7 @@ const Context = React.createContext({
 	killoMeter: 0,
 	Light: "OFF",
 	fuel: 0,
-	rainSensor: 5000,
+	rainSensor: 500,
 	rfid: false,
 	slideswitch: "ON",
 	ultrasonic: 0,
@@ -24,10 +24,10 @@ const Context = React.createContext({
 export const ContextProvider = (props) => {
 	const [cabinTemp, setCabinTemp] = useState(12);
 	const [engine, setEngine] = useState("OFF");
-	const [killoMeter, setKilloMeter] = useState(0);
+	const [killoMeter, setKilloMeter] = useState(56);
 	const [Light, setLight] = useState("OFF");
 	const [fuel, setFuel] = useState(0);
-	const [rainSensor, setRainSensor] = useState(0);
+	const [rainSensor, setRainSensor] = useState(1500);
 	const [rfid, setRfid] = useState("False");
 	const [slideswitch, setSlidesSwitch] = useState(0);
 	const [ultrasonic, setUltraSonic] = useState(0);
