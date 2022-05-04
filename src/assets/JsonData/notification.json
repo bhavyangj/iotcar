@@ -1,22 +1,18 @@
 [
-    {
-        "icon": "bx bx-error",
-        "content": "Curabitur id eros quis nunc suscipit blandit"
-    },
-    {
-        "icon": "bx bx-package",
-        "content": "Duis malesuada justo eu sapien elementum, in semper diam posuere"
-    },
-    {
-        "icon": "bx bx-cart",
-        "content": "Donec at nisi sit amet tortor commodo porttitor pretium a erat"
-    },
-    {
-        "icon": "bx bx-error",
-        "content": "In gravida mauris et nisi"
-    },
-    {
-        "icon": "bx bx-cart",
-        "content": "Curabitur id eros quis nunc suscipit blandit"
-    }
+	{
+		"icon": "bx bx-error",
+		"content": "Door isn't locked properly"
+	},
+	{
+		"icon": "bx bx-package",
+		"content": "Your Car is on the way to Goa"
+	},
+	{
+		"icon": "bx bx-error",
+		"content": "Speed Down"
+	},
+	{
+		"icon": "bx bx-package",
+		"content": "Commad Received"
+	}
 ]

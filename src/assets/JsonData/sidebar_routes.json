@@ -6,7 +6,7 @@
 	},
 	{
 		"display_name": "Drivers",
-		"route": "/customers",
+		"route": "/drivers",
 		"icon": "bx bx-user-pin"
 	},
 	{
