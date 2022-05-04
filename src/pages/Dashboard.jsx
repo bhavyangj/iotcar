@@ -48,13 +48,13 @@ const topCustomers = {
     head: [
         'driver',
         'total distance',
-        'total spending'
+        'Cost'
     ],
     body: [
         {
             "username": "Bhavyang Jariwala",
             "order": "490 Km",
-            "price": "$1,580"
+            "price": "$580"
         },
         {
             "username": "Shiven Desai",
